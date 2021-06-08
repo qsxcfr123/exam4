@@ -5,7 +5,7 @@
   - SourceTree
 - Web Server
   - Apache
-  - Sambar
+  - ~~Sambar~~
 
 ```javascript
 <script>
